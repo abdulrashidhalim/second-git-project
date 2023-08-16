@@ -8,8 +8,8 @@ public class SecondClassFromNewBranch {
 		
 		int ar = 90;
 		
-			System.out.println("ar")	;
-		
+			System.out.println("this is change from my new branch")	;
+		System.out.println("This is update from new branch");
 	}
 
 }
